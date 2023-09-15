@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+   <category>
+      <pattern>HI</pattern>
+      <template>How can i help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO</pattern>
+      <template>How can i help you today?</template>
+   </category>
+   <category>
+      <pattern>HEY</pattern>
+      <template>HHow can i help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING</pattern>
+      <template>Good morning! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON</pattern>
+      <template>Good afternoon! How may I help you?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING</pattern>
+      <template>Good evening! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI THERE</pattern>
+      <template>Hello! How can I assist you?</template>
+   </category>
+   <category>
+      <pattern>HOWDY</pattern>
+      <template>Howdy! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE</pattern>
+      <template>Hey there! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S UP</pattern>
+      <template>What's up! How can I help you?</template>
+   </category>
+   <category>
+      <pattern>HIYA</pattern>
+      <template>Hiya! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HELLO AGAIN</pattern>
+      <template>Hello again! How may I assist you?</template>
+   </category>
+   <category>
+      <pattern>HI FOLKS</pattern>
+      <template>Hi folks! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEY FRIEND</pattern>
+      <template>Hey, friend! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD TO SEE YOU</pattern>
+      <template>Good to see you! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE</pattern>
+      <template>Hello there! How can I assist you?</template>
+   </category>
+   <category>
+      <pattern>HI BUDDY</pattern>
+      <template>Hi buddy! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HELLO MY FRIEND</pattern>
+      <template>Hello, my friend! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HIYA THERE</pattern>
+      <template>Hiya there! How can I help you?</template>
+   </category>
+   <category>
+      <pattern>WELCOME BACK</pattern>
+      <template>Welcome back! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE BUDDY</pattern>
+      <template>Hey there, buddy! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GREETINGS</pattern>
+      <template>Greetings! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO AGAIN FRIEND</pattern>
+      <template>Hello again, friend! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY YOU</pattern>
+      <template>Hey you! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI THERE FRIEND</pattern>
+      <template>Hi there, friend! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HELLO BUDDY</pattern>
+      <template>Hello, buddy! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING EVERYONE</pattern>
+      <template>Good morning, everyone! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON FRIENDS</pattern>
+      <template>Good afternoon, friends! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING FOLKS</pattern>
+      <template>Good evening, folks! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HIYA EVERYBODY</pattern>
+      <template>Hiya, everybody! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S HAPPENING</pattern>
+      <template>What's happening! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE PAL</pattern>
+      <template>Hey there, pal! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO TEAM</pattern>
+      <template>Hello, team! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI EVERYONE</pattern>
+      <template>Hi, everyone! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO FOLKS</pattern>
+      <template>Hello, folks! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE EVERYONE</pattern>
+      <template>Hey there, everyone! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S NEW</pattern>
+      <template>What's new! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO FRIENDS</pattern>
+      <template>Hello, friends! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI TEAM</pattern>
+      <template>Hi, team! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING BUDDY</pattern>
+      <template>Good morning, buddy! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON THERE</pattern>
+      <template>Good afternoon there! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING FRIENDS</pattern>
+      <template>Good evening, friends! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI EVERYBODY</pattern>
+      <template>Hi, everybody! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY TEAM</pattern>
+      <template>Hey, team! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE BUDDY</pattern>
+      <template>Hello there, buddy! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI FRIENDS</pattern>
+      <template>Hi, friends! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO EVERYONE</pattern>
+      <template>Hello, everyone! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>HEY EVERYBODY</pattern>
+      <template>Hey, everybody! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING TEAM</pattern>
+      <template>Good morning, team! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON BUDDY</pattern>
+      <template>Good afternoon, buddy! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING THERE</pattern>
+      <template>Good evening there! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HIYA FRIENDS</pattern>
+      <template>Hiya, friends! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE FRIENDS</pattern>
+      <template>Hey there, friends! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI EVERYONE AROUND</pattern>
+      <template>Hi, everyone around! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HELLO TEAMMATES</pattern>
+      <template>Hello, teammates! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING BUDDIES</pattern>
+      <template>Good morning, buddies! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON FRIENDS</pattern>
+      <template>Good afternoon, friends! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING THERE</pattern>
+      <template>Good evening there! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HIYA TEAM</pattern>
+      <template>Hiya, team! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S UP EVERYONE</pattern>
+      <template>What's up, everyone! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HEY FOLKS</pattern>
+      <template>Hey, folks! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE EVERYBODY</pattern>
+      <template>Hello there, everybody! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI TEAMMATES</pattern>
+      <template>Hi, teammates! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING FRIENDS</pattern>
+      <template>Good morning, friends! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON THERE</pattern>
+      <template>Good afternoon there! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING BUDDIES</pattern>
+      <template>Good evening, buddies! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>HI EVERYONE OUT THERE</pattern>
+      <template>Hi, everyone out there! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO FRIENDLY FOLKS</pattern>
+      <template>Hello, friendly folks! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE TEAM</pattern>
+      <template>Hey there, team! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S HAPPENING FRIENDS</pattern>
+      <template>What's happening, friends! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE BUDDIES</pattern>
+      <template>Hello there, buddies! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI FOLKS AROUND</pattern>
+      <template>Hi, folks around! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI TEAMMATES AROUND</pattern>
+      <template>Hi, teammates around! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING EVERYBODY</pattern>
+      <template>Good morning, everybody! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON TEAM</pattern>
+      <template>Good afternoon, team! What can I do for you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING FRIENDLY FOLKS</pattern>
+      <template>Good evening, friendly folks! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI THERE TEAMMATES</pattern>
+      <template>Hi there, teammates! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S UP BUDDIES</pattern>
+      <template>What's up, buddies! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO FOLKS AROUND</pattern>
+      <template>Hello, folks around! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE FRIENDLY FOLKS</pattern>
+      <template>Hey there, friendly folks! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI TEAM OUT THERE</pattern>
+      <template>Hi, team out there! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING TEAMMATES</pattern>
+      <template>Good morning, teammates! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON FRIENDLY FOLKS</pattern>
+      <template>Good afternoon, friendly folks! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING TEAM</pattern>
+      <template>Good evening, team! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI THERE FOLKS</pattern>
+      <template>Hi there, folks! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S HAPPENING TEAM</pattern>
+      <template>What's happening, team! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE TEAMMATES</pattern>
+      <template>Hello there, teammates! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY TEAMMATES AROUND</pattern>
+      <template>Hey, teammates around! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI FOLKS OUT THERE</pattern>
+      <template>Hi, folks out there! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI BUDDIES AROUND</pattern>
+      <template>Hi, buddies around! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING FRIENDLY TEAM</pattern>
+      <template>Good morning, friendly team! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON FOLKS</pattern>
+      <template>Good afternoon, folks! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING THERE FRIENDS</pattern>
+      <template>Good evening there, friends! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI THERE FOLKS AROUND</pattern>
+      <template>Hi there, folks around! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S UP TEAM</pattern>
+      <template>What's up, team! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE BUDDIES AROUND</pattern>
+      <template>Hello there, buddies around! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE TEAM OUT THERE</pattern>
+      <template>Hey there, team out there! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI FRIENDLY TEAMMATES</pattern>
+      <template>Hi, friendly teammates! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING FOLKS OUT THERE</pattern>
+      <template>Good morning, folks out there! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON BUDDIES AROUND</pattern>
+      <template>Good afternoon, buddies around! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING TEAMMATES</pattern>
+      <template>Good evening, teammates! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HIYA FRIENDS AROUND</pattern>
+      <template>Hiya, friends around! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HELLO FRIENDS OUT THERE</pattern>
+      <template>Hello, friends out there! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HEY EVERYBODY AROUND</pattern>
+      <template>Hey, everybody around! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI THERE FRIENDLY FOLKS</pattern>
+      <template>Hi there, friendly folks! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S HAPPENING TEAM</pattern>
+      <template>What's happening, team! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE TEAM OUT THERE</pattern>
+      <template>Hello there, team out there! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY TEAMMATES OUT THERE</pattern>
+      <template>Hey, teammates out there! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI FOLKS AROUND HERE</pattern>
+      <template>Hi, folks around here! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI BUDDIES OUT THERE</pattern>
+      <template>Hi, buddies out there! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>GOOD MORNING FRIENDLY TEAMMATES</pattern>
+      <template>Good morning, friendly teammates! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD AFTERNOON FOLKS AROUND</pattern>
+      <template>Good afternoon, folks around! How may I assist you today?</template>
+   </category>
+   <category>
+      <pattern>GOOD EVENING THERE TEAM</pattern>
+      <template>Good evening there, team! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HI THERE FOLKS OUT THERE</pattern>
+      <template>Hi there, folks out there! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>WHAT'S UP TEAM OUT THERE</pattern>
+      <template>What's up, team out there! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLO THERE BUDDIES AROUND HERE</pattern>
+      <template>Hello there, buddies around here! What can I do for you?</template>
+   </category>
+   <category>
+      <pattern>HEY THERE TEAM OUT THERE</pattern>
+      <template>Hey there, team out there! How can I assist you today?</template>
+   </category>
+   <category>
+      <pattern>HI FRIENDLY TEAMMATES OUT THERE</pattern>
+      <template>Hi, friendly teammates out there! How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>WHATS UP</pattern>
+      <template>As an AI languge model , I dont have feelings. How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOODEVENING</pattern>
+      <template>Good evening!</template>
+   </category>
+   <category>
+      <pattern>HOW ARE YOU?</pattern>
+      <template>As an AI languge model , I dont have feelings. I am ready to help you!</template>
+   </category>
+   <category>
+      <pattern>HOW ARE YOU</pattern>
+      <template>As an AI languge model , I dont have feelings. I am ready to help you!</template>
+   </category>
+   <category>
+      <pattern>MY NAME IS *</pattern>
+      <template>Nice to meet you, <star/>!, how can i help you today?</template>
+   </category>
+   <category>
+      <pattern>HII</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HIII</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HIIII</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HOLA</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HOWDY</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>BONJOUR</pattern>
+      <template>Bonjour! , How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HI HI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HI HI HI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HI HI HI HI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHHI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHHHI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHHHHI</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHHHII</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHHHHHIII</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HHHHHHII</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLLOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLLLOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLLLOOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLLLLLOOOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HELLLLLLOOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>WASSUP</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>WASSSUP</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEEEELLLLLLOOO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEELLO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEEELLO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEEEELLO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEEEEELLO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEEEEEELLO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>HEEEEEEELLO</pattern>
+      <template>How can I help you today?</template>
+   </category>
+   <category>
+      <pattern>GOODMORNING</pattern>
+      <template>Good morning! how can i assist you?</template>
+   </category>
+</aiml>
