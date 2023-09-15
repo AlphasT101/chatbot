@@ -1,11 +1,21 @@
 import os
 from aiml import Kernel
 
+folder_select = int(input("Enter 1 to select laptop folder or enter 2 to select PC folder: "))
+laptop_folder = "C:/Users/User/Documents/coding files/chatbot/database"
+pc_folder = "C:/AlphasT101/coding files/chatbot/database"
+aiml_folder = ""
+
+if folder_select == 1:
+    aiml_folder = laptop_folder
+elif folder_select == 2:
+    aiml_folder = pc_folder
+
 class SimpleChatbot:
     def __init__(self):
         self.kernel = Kernel()
 
-        aiml_folder = "C:\AlphasT101\coding files\own_made_aiml_bot\database"  # Change this to the folder path where your AIML files are located
+        # aiml_folder = folder  # Change this to the folder path where your AIML files are located
 
         # Load AIML files from the specified folder
         for file in os.listdir(aiml_folder):

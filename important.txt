@@ -1,0 +1,16 @@
+# ADD REMOTE TO GITHUB
+git remote add origin https://github.com/AlphasT101/chatbot.git
+git push -u origin master
+
+# SAVE FILES
+git add .
+git commit -m "Your commit message"
+git pull origin master
+git push --force origin master
+
+# IMPORT GITHUB USERNAME AND EMAIL
+git config --global user.email "anlexalphast@gmail.com"
+git config --global user.name "AlphasT101"
+
+# CLONE LINK
+git clone https://github.com/AlphasT101/chatbot.git

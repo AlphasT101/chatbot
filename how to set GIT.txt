@@ -1,0 +1,53 @@
+1) Install Git:
+
+Ensure that Git is installed on both of your PCs. You can download it from the official website: https://git-scm.com/downloads
+
+2)Add Git to PATH:
+
+During the Git installation process, there should be an option to add Git to your system's PATH environment variable. Make sure this option is selected.
+
+If you have already installed Git without adding it to the PATH, you can do so manually:
+
+Open the Windows "Start" menu and search for "Environment Variables."
+
+Click on "Edit the system environment variables."
+
+In the "System Properties" window, click the "Environment Variables" button.
+
+Under "System variables," find the "Path" variable, select it, and click the "Edit" button.
+
+In the "Edit Environment Variable" window, click the "New" button and add the directory where Git is installed. By default, it's usually something like C:\Program Files\Git\bin.
+
+Click "OK" to close the windows and save your changes.
+
+Restart PowerShell:
+
+After adding Git to the PATH, you may need to close and reopen your PowerShell window or restart your computer for the changes to take effect.
+
+
+
+
+
+
+
+If Git is installed in C:\Program Files\Git, you should add this directory to your system's PATH environment variable to make Git commands available from any command prompt or PowerShell window. Here's how to do it:
+
+Open the Windows "Start" menu and search for "Environment Variables."
+
+Click on "Edit the system environment variables."
+
+In the "System Properties" window, click the "Environment Variables" button.
+
+Under "System variables," find the "Path" variable, select it, and click the "Edit" button.
+
+In the "Edit Environment Variable" window, click the "New" button.
+Add the following entry:
+C:\Program Files\Git\bin
+
+If you also want to use Git's command-line tools, you can add another entry for the cmd folder:
+C:\Program Files\Git\cmd
+
+Click "OK" to close the windows and save your changes.
+Restart your PowerShell window or open a new one.
+
+After following these steps, Git should be recognized as a command in PowerShell, and you should be able to use Git commands without issues. You can test it by running git --version in your PowerShell window to confirm that Git is recognized and working correctly.

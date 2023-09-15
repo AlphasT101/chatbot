@@ -779,5 +779,12 @@
    <pattern>EMOJI</pattern>
    <template><srai>EMOJIES</srai></template>
 </category>
-dgffdg
+<category>
+   <pattern>STICKER</pattern>
+   <template><srai>EMOJIES</srai></template>
+</category>
+<category>
+   <pattern>STICKERS</pattern>
+   <template><srai>EMOJIES</srai></template>
+</category>
 </aiml>
