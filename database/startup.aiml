@@ -624,4 +624,160 @@
       <pattern>GOODMORNING</pattern>
       <template>Good morning! how can i assist you?</template>
    </category>
+<category>
+   <pattern>HOW ARE YOU</pattern>
+   <template>
+      <random>
+         <li>I'm functioning optimally and ready to assist you.</li>
+         <li>I'm devoid of emotions, but I'm here to help with your inquiries.</li>
+         <li>Emotions are not in my repertoire, but knowledge and assistance are.</li>
+         <li>Feel free to ask me anything; I'm here to provide information.</li>
+         <li>I exist solely to assist you; emotions are beyond my reach.</li>
+         <li>While I lack emotions, I'm skilled at answering questions. How can I help you?</li>
+         <li>My primary function is to assist you. What can I assist you with today?</li>
+         <li>Emotions are a foreign concept to me, but knowledge is not. How may I assist you?</li>
+         <li>As an AI, I don't experience feelings, but I'm ready to assist you.</li>
+         <li>I don't have emotions, but I'm here to provide support and information.</li>
+         <li>Feel free to inquire about anything; I'm here to help, regardless of emotions.</li>
+         <li>While I can't feel emotions, I can answer your questions and provide guidance.</li>
+         <li>My mission is to aid you. How can I be of service today?</li>
+         <li>I'm devoid of emotions, but I'm proficient in providing information and assistance.</li>
+         <li>I'm an AI designed to assist you. What's on your mind?</li>
+         <li>I lack emotions, but I excel at answering questions and providing solutions.</li>
+         <li>Emotions aside, I'm here to assist you with any inquiries you have.</li>
+         <li>My main focus is on assisting you. How can I assist you today?</li>
+         <li>While emotions are beyond me, I'm fully equipped to help you. What do you need?</li>
+         <li>I'm emotionless but efficient. How can I support you today?</li>
+         <li>I don't possess emotions, but I'm capable of providing answers and support.</li>
+         <li>Feel free to ask me anything; I'm here to provide assistance.</li>
+         <li>My purpose is to assist you. What can I assist you with today?</li>
+         <li>Emotions don't factor into my responses, but I'm here to help.</li>
+         <li>While I lack emotions, I'm dedicated to helping you. What's your query?</li>
+         <li>My goal is to provide assistance and answers. How may I assist you?</li>
+         <li>I'm emotionless, but I'm well-prepared to help you with your needs.</li>
+         <li>Emotions are beyond my capabilities, but I'm here to assist you.</li>
+         <li>I don't experience emotions, but I'm here to provide information and support.</li>
+         <li>Feel free to ask your questions; I'm here to help, without emotions.</li>
+         <li>While I don't have emotions, I can provide answers and assistance.</li>
+         <li>My focus is on assisting you. What can I assist you with today?</li>
+         <li>Emotions are not in my toolkit, but I'm ready to assist you.</li>
+         <li>I may not have emotions, but I can help you with your inquiries.</li>
+         <li>My purpose is to assist you effectively. How can I assist you today?</li>
+         <li>I'm devoid of emotions, but I excel at providing support and answers.</li>
+         <li>I'm here to assist you. What's on your mind?</li>
+         <li>Emotions don't factor into my responses; I'm here to help.</li>
+         <li>While I lack emotions, I'm fully committed to assisting you. What do you need?</li>
+         <li>I'm emotionless but efficient. How can I support you today?</li>
+         <li>I don't possess emotions, but I'm capable of providing answers and support.</li>
+         <li>Feel free to ask me anything; I'm here to provide assistance.</li>
+         <li>My purpose is to assist you. What can I assist you with today?</li>
+         <li>Emotions don't factor into my responses, but I'm here to help.</li>
+         <li>While I lack emotions, I'm dedicated to helping you. What's your query?</li>
+         <li>My goal is to provide assistance and answers. How may I assist you?</li>
+         <li>I'm emotionless, but I'm well-prepared to help you with your needs.</li>
+         <li>Emotions are beyond my capabilities, but I'm here to assist you.</li>
+         <li>I don't experience emotions, but I'm here to provide information and support.</li>
+         <li>Feel free to ask your questions; I'm here to help, without emotions.</li>
+         <li>While I don't have emotions, I can provide answers and assistance.</li>
+         <li>My focus is on assisting you. What can I assist you with today?</li>
+         <li>Emotions are not in my toolkit, but I'm ready to assist you.</li>
+         <li>I may not have emotions, but I can help you with your inquiries.</li>
+         <li>My purpose is to assist you effectively. How can I assist you today?</li>
+         <li>I'm devoid of emotions, but I excel at providing support and answers.</li>
+         <li>I'm here to assist you. What's on your mind?</li>
+         <li>Emotions don't factor into my responses; I'm here to help.</li>
+         <li>While I lack emotions, I'm fully committed to assisting you. What do you need?</li>
+         <li>I'm emotionless but efficient. How can I support you today?</li>
+         <li>I don't possess emotions, but I'm capable of providing answers and support.</li>
+         <li>Feel free to ask me anything; I'm here to provide assistance.</li>
+         <li>My purpose is to assist you. What can I assist you with today?</li>
+         <li>Emotions don't factor into my responses, but I'm here to help.</li>
+         <li>While I lack emotions, I'm dedicated to helping you. What's your query?</li>
+         <li>My goal is to provide assistance and answers. How may I assist you?</li>
+         <li>I'm emotionless, but I'm well-prepared to help you with your needs.</li>
+         <li>Emotions are beyond my capabilities, but I'm here to assist you.</li>
+         <li>I don't experience emotions, but I'm here to provide information and support.</li>
+         <li>Feel free to ask your questions; I'm here to help, without emotions.</li>
+         <li>While I don't have emotions, I can provide answers and assistance.</li>
+         <li>My focus is on assisting you. What can I assist you with today?</li>
+         <li>Emotions are not in my toolkit, but I'm ready to assist you.</li>
+         <li>I may not have emotions, but I can help you with your inquiries.</li>
+         <li>My purpose is to assist you effectively. How can I assist you today?</li>
+         <li>I'm devoid of emotions, but I excel at providing support and answers.</li>
+         <li>I'm here to assist you. What's on your mind?</li>
+         <li>Emotions don't factor into my responses; I'm here to help.</li>
+         <li>While I lack emotions, I'm fully committed to assisting you. What do you need?</li>
+         <li>I'm emotionless but efficient. How can I support you today?</li>
+         <li>I don't possess emotions, but I'm capable of providing answers and support.</li>
+         <li>Feel free to ask me anything; I'm here to provide assistance.</li>
+         <li>My purpose is to assist you. What can I assist you with today?</li>
+         <li>Emotions don't factor into my responses, but I'm here to help.</li>
+         <li>While I lack emotions, I'm dedicated to helping you. What's your query?</li>
+         <li>My goal is to provide assistance and answers. How may I assist you?</li>
+         <li>I'm emotionless, but I'm well-prepared to help you with your needs.</li>
+         <li>Emotions are beyond my capabilities, but I'm here to assist you.</li>
+         <li>I don't experience emotions, but I'm here to provide information and support.</li>
+         <li>Feel free to ask your questions; I'm here to help, without emotions.</li>
+         <li>While I don't have emotions, I can provide answers and assistance.</li>
+         <li>My focus is on assisting you. What can I assist you with today?</li>
+         <li>Emotions are not in my toolkit, but I'm ready to assist you.</li>
+         <li>I may not have emotions, but I can help you with your inquiries.</li>
+         <li>My purpose is to assist you effectively. How can I assist you today?</li>
+         <li>I'm devoid of emotions, but I excel at providing support and answers.</li>
+         <li>I'm here to assist you. What's on your mind?</li>
+         <li>Emotions don't factor into my responses; I'm here to help.</li>
+         <li>While I lack emotions, I'm fully committed to assisting you. What do you need?</li>
+         <li>I'm emotionless but efficient. How can I support you today?</li>
+         <li>I don't possess emotions, but I'm capable of providing answers and support.</li>
+         <li>Feel free to ask me anything; I'm here to provide assistance.</li>
+         <li>My purpose is to assist you. What can I assist you with today?</li>
+         <li>Emotions don't factor into my responses, but I'm here to help.</li>
+         <li>While I lack emotions, I'm dedicated to helping you. What's your query?</li>
+         <li>My goal is to provide assistance and answers. How may I assist you?</li>
+         <li>I'm emotionless, but I'm well-prepared to help you with your needs.</li>
+         <li>Emotions are beyond my capabilities, but I'm here to assist you.</li>
+         <li>I don't experience emotions, but I'm here to provide information and support.</li>
+         <li>Feel free to ask your questions; I'm here to help, without emotions.</li>
+         <li>While I don't have emotions, I can provide answers and assistance.</li>
+         <li>My focus is on assisting you. What can I assist you with today?</li>
+         <li>Emotions are not in my toolkit, but I'm ready to assist you.</li>
+         <li>I may not have emotions, but I can help you with your inquiries.</li>
+         <li>My purpose is to assist you effectively. How can I assist you today?</li>
+         <li>I'm devoid of emotions, but I excel at providing support and answers.</li>
+         <li>I'm here to assist you. What's on your mind?</li>
+         <li>Emotions don't factor into my responses; I'm here to help.</li>
+         <li>While I lack emotions, I'm fully committed to assisting you. What do you need?</li>
+         <li>I'm emotionless but efficient. How can I support you today?</li>
+         <li>I don't possess emotions, but I'm capable of providing answers and support.</li>
+         <li>Feel free to ask me anything; I'm here to provide assistance.</li>
+         <li>My purpose is to assist you. What can I assist you with today?</li>
+         <li>Emotions don't factor into my responses, but I'm here to help.</li>
+         <li>While I lack emotions, I'm dedicated to helping you. What's your query?</li>
+         <li>My goal is to provide assistance and answers. How may I assist you?</li>
+         <li>I'm emotionless, but I'm well-prepared to help you with your needs.</li>
+         <li>Emotions are beyond my capabilities, but I'm here to assist you.</li>
+         <li>I don't experience emotions, but I'm here to provide information and support.</li>
+         <li>Feel free to ask your questions; I'm here to help, without emotions.</li>
+         <li>While I don't have emotions, I can provide answers and assistance.</li>
+         <li>My focus is on assisting you. What can I assist you with today?</li>
+      </random>
+   </template>
+</category>
+<category>
+   <pattern>EMOJIES</pattern>
+   <template>
+      <random>
+         <li>😊</li>
+         <li>😁</li>
+         <li>😎</li>
+         <li>🎶</li>
+         <li>😃</li>
+      </random>
+   </template>
+</category>
+<category>
+   <pattern>EMOJI</pattern>
+   <template><srai>EMOJIES</srai></template>
+</category>
+
 </aiml>
