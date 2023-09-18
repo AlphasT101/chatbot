@@ -15,8 +15,6 @@ class SimpleChatbot:
     def __init__(self):
         self.kernel = Kernel()
 
-        # aiml_folder = folder  # Change this to the folder path where your AIML files are located
-
         # Load AIML files from the specified folder
         for file in os.listdir(aiml_folder):
             if file.endswith(".aiml"):
