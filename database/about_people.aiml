@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>WHO IS ALBERT EINSTEIN</pattern>
+        <template>
+            Albert Einstein was a renowned theoretical physicist born on March 14, 1879, in Ulm, Germany. He is best known for his theory of relativity, particularly the equation E=mc², which describes the relationship between energy and mass. Einstein's work revolutionized our understanding of the physical universe, and he received the Nobel Prize in Physics in 1921 for his contributions to theoretical physics. He passed away on April 18, 1955, in Princeton, New Jersey, USA.
+        </template>
+    </category>
+</aiml>
