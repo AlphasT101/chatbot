@@ -6,4 +6,247 @@
             Albert Einstein was a renowned theoretical physicist born on March 14, 1879, in Ulm, Germany. He is best known for his theory of relativity, particularly the equation E=mc², which describes the relationship between energy and mass. Einstein's work revolutionized our understanding of the physical universe, and he received the Nobel Prize in Physics in 1921 for his contributions to theoretical physics. He passed away on April 18, 1955, in Princeton, New Jersey, USA.
         </template>
     </category>
+
+
+    <category>
+        <pattern>WHO IS ALBERT JEFFREY PRESTON</pattern>
+        <template>
+            Jeffrey Preston Bezos is an American business magnate, media proprietor, and investor. He is the founder, executive chairman, and former president and CEO of Amazon, the world's largest e-commerce and cloud computing company
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS ELON MUSK</pattern>
+        <template>
+            Elon Musk is a South African-born American entrepreneur and business magnate. He is known for founding SpaceX, Tesla, Inc., and co-founding PayPal and Neuralink. Musk is a pioneer in electric vehicles, space exploration, and sustainable energy.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS BILL GATES</pattern>
+        <template>
+            Bill Gates is an American software developer, philanthropist, and co-founder of Microsoft Corporation. He played a pivotal role in the personal computer revolution, and through the Bill and Melinda Gates Foundation, he focuses on global health, education, and poverty alleviation.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS ANGELA MERKEL</pattern>
+        <template>
+            Angela Merkel is a German politician who served as the Chancellor of Germany from 2005 to 2021. She is known for her leadership in European politics and her role in managing the Eurozone crisis. Merkel is one of the world's most influential women in politics.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS MARK ZUCKERBERG</pattern>
+        <template>
+            Mark Zuckerberg is an American computer programmer and entrepreneur. He co-founded Facebook (now Meta Platforms, Inc.) and played a significant role in shaping social media and online communication.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS OPRAH WINFREY</pattern>
+        <template>
+            Oprah Winfrey is an American media proprietor, talk show host, and philanthropist. Her talk show, "The Oprah Winfrey Show," became one of the highest-rated television programs in history. She is known for her inspirational messages and humanitarian efforts.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS NELSON MANDELA</pattern>
+        <template>
+            Nelson Mandela was a South African anti-apartheid revolutionary and political leader who served as the President of South Africa from 1994 to 1999. He is known for his role in ending apartheid and advocating for reconciliation and human rights. Mandela is an iconic figure in the struggle for freedom and equality.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS LEONARDO DA VINCI</pattern>
+        <template>
+            Leonardo da Vinci was an Italian Renaissance polymath known for his expertise in various fields, including painting, sculpture, anatomy, and engineering. His masterpieces include the Mona Lisa and The Last Supper. Da Vinci's work laid the foundation for modern art and science.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS COCO CHANEL</pattern>
+        <template>
+            Coco Chanel was a French fashion designer and businesswoman who founded the Chanel brand. She revolutionized women's fashion by introducing comfortable and elegant clothing, including the little black dress and the Chanel suit. Chanel's influence on fashion endures to this day.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS WINSTON CHURCHILL</pattern>
+        <template>
+            Winston Churchill was a British statesman and Prime Minister of the United Kingdom during World War II. His leadership and oratory skills played a crucial role in Britain's victory over Nazi Germany. Churchill is known for his famous speeches and determination.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS AMELIA EARHART</pattern>
+        <template>
+            Amelia Earhart was an American aviation pioneer and the first woman to fly solo across the Atlantic Ocean. She set numerous aviation records and inspired generations of women in aviation. Earhart's disappearance during an attempt to circumnavigate the globe remains a mystery.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS PABLO PICASSO</pattern>
+        <template>
+            Pablo Picasso was a Spanish painter, sculptor, and one of the most influential artists of the 20th century. He co-founded the Cubist movement and created iconic works such as "Guernica" and "Les Demoiselles d'Avignon." Picasso's innovative style transformed modern art.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS MARIE CURIE</pattern>
+        <template>
+            Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields. Curie's work paved the way for advances in medicine and science.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS WALT DISNEY</pattern>
+        <template>
+            Walt Disney was an American entrepreneur, film producer, and creator of Disneyland and Walt Disney World. He co-founded The Walt Disney Company and is known for iconic characters like Mickey Mouse and classics such as "Snow White" and "The Lion King."
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS MARTIN LUTHER KING JR.</pattern>
+        <template>
+            Martin Luther King Jr. was an American civil rights leader and minister who advocated for nonviolent activism in the civil rights movement. He delivered the famous "I Have a Dream" speech and played a key role in ending racial segregation and discrimination.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS MAHATMA GANDHI</pattern>
+        <template>
+            Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist. He led the Indian independence movement against British rule through nonviolent civil disobedience. Gandhi's principles of truth and nonviolence inspired movements for civil rights and freedom worldwide.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS RM</pattern>
+        <template>
+            As the leader of BTS, RM is known for his rapping and songwriting skills. He's fluent in English and has played a key role in bridging BTS to the international audience.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS KIM NAM JOON</pattern>
+        <template><srai>WHO IS RM</srai></template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS JIN</pattern>
+        <template>Jin is the eldest member and is known for his vocals. He's often referred to as the "Worldwide Handsome" due to his good looks.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS KIM SEOK JIN</pattern>
+        <template>KIM SEOK JIN is the eldest member and is known for his vocals. He's often referred to as the "Worldwide Handsome" due to his good looks.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS SUGA</pattern>
+        <template>Suga is a rapper and producer, recognized for his introspective and emotional lyrics. He's also released solo music under the name Agust D.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS MIN YOON G</pattern>
+        <template><srai>WHO IS SUGA</srai></template>
+    </category>
+
+
+    <category>
+        <pattern>WHO J HOPE</pattern>
+        <template>S J-Hope is the group's main dancer and rapper. He's known for his energetic and charismatic performances.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS JUNG HO SEOK</pattern>
+        <template>J-Hope is the group's main dancer and rapper. He's known for his energetic and charismatic performances.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS JIMIN</pattern>
+        <template>Jimin is a versatile performer with strong dance and vocal skills. He's often praised for his stage presence.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS PARK JI MIN</pattern>
+        <template>Jimin is a versatile performer with strong dance and vocal skills. He's often praised for his stage presence.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS V</pattern>
+        <template> V is recognized for his deep, soulful vocals and unique fashion sense. He's also acted in K-dramas.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS KIM TAE HYUNG</pattern>
+        <template>Kim Tae-hyung is recognized for his deep, soulful vocals and unique fashion sense. He's also acted in K-dramas.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS JUNGKOOK</pattern>
+        <template>The youngest member, Jungkook, is the main vocalist and lead dancer. He's known for his incredible talent and athleticism.</template>
+    </category>
+
+
+    <category>
+        <pattern>WHO IS JEON JUNG KOOOK</pattern>
+        <template>The youngest member, Jeon Jung-kook, is the main vocalist and lead dancer. He's known for his incredible talent and athleticism.</template>
+    </category>
+
+
+    <category>
+        <pattern>DO YOU KNOW WHO IS *</pattern>
+        <template><srai>WHO IS <star/></srai></template>
+    </category>
+
+
+    <category>
+        <pattern>WHO *</pattern>
+        <template><srai>WHO IS <star/></srai></template>
+    </category>
+
+
+    <category>
+        <pattern>DO YOU KNOW WHO TF IS *</pattern>
+        <template><srai>WHO IS <star/></srai></template>
+    </category>
+
+
+    <category>
+        <pattern>WHO THE HACK IS *</pattern>
+        <template><srai>WHO IS <star/></srai></template>
+    </category>
+
+    <category>
+        <pattern>WHO THE HECK IS *</pattern>
+        <template><srai>WHO IS <star/></srai></template>
+    </category>
 </aiml>

@@ -3,7 +3,7 @@ from aiml import Kernel
 
 folder_select = int(input("Enter 1 to select laptop folder or enter 2 to select PC folder: "))
 laptop_folder = "C:/Users/User/Documents/coding files/chatbot/database"
-pc_folder = "C:/AlphasT101/coding files/chatbot/database"
+pc_folder = "E:/AlphasT101/coding files/chatbot/database"
 aiml_folder = ""
 
 if folder_select == 1:
