@@ -5,19 +5,14 @@ import os
 from aiml import Kernel
 import sys
 
-laptop_folder = "C:/Users/User/Documents/coding files/chatbot/database"
-pc_folder_windows = "D:/coding files/chatbot/database"
-pc_folder_ubuntu = "/media/raghib/disk/coding files/chatbot/database"
+pc_folder_windows = "E:/.vscode/chatbot/database"
 aiml_folder = ""
 
-folder_select = input("Enter 1 to select laptop folder or enter 2 to select PC folder(windows) or enter 3 to select PC folder(Ubuntu): ")
+folder_select = input("Enter 1 to select PC folder(windows): ")
+
 
 if folder_select == "1" :
-    aiml_folder = laptop_folder
-elif folder_select == "2" :
     aiml_folder = pc_folder_windows
-elif folder_select == "3" :
-    aiml_folder = pc_folder_ubuntu
 else:
     print("FOLDER PATH ERROR")
     sys.exit()
